@@ -1413,7 +1413,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<section class=\"whats\" group=\"whats\" plugins=\"amp-main\">\n   \n        <div class=\"mbr-row\">\n            <div class=\"container-elements mbr-flex flex-wrap\">\n                <div class=\"mbr-overlay\"></div>\n            <div class=\"image-wrap mbr-flex mbr-col-sm-12\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/919df067a8fbd22ce7b6f401b7688b35-230x230.png\" layout=\"responsive\" width=\"90\" height=\"90\" alt=\"Mobirise\" class=\"mobirise-loader mbr-m-auto edit-whats\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <a href=\"https://api.whatsapp.com/send?phone=5551997568123&amp;text=Ol%C3%A1%20Web%202%20Easy%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20cria%C3%A7%C3%A3o%20de%20sites.\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/919df067a8fbd22ce7b6f401b7688b35-230x230.png\" alt=\"Mobirise\" title=\"\"></a>\n                </amp-img>\n            </div>\n            </div>\n        </div>\n</section>",
-          "_customCSS": ".edit-whats {\n  width: 90px;\n  height: 90px;\n  position: fixed;\n  bottom: 0px;\n  right: 4%;\n}\n",
+          "_customCSS": ".edit-whats {\n  width: 90px;\n  height: 90px;\n  position: fixed;\n  bottom: 0px;\n  right: 4%;\n\tz-index: 99999;\n}\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
