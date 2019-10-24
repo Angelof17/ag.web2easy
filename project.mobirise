@@ -41,9 +41,9 @@
     "favicon": "",
     "": "on",
     "robotsSwitcher": true,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": true,
-    "siteUrl": "",
+    "siteUrl": "https://ag-web2easy.github.io/ag.web2easy/",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
